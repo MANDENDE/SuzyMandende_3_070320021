@@ -1131,7 +1131,7 @@
 		}
 		figcaption p 
 		{
-			margin-left: 0rem;
+			margin-left: -5rem;
 			font-size: 14px;
 		}
 		figcaption a
