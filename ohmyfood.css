@@ -1088,7 +1088,7 @@
 		}
 		.menu
 		{
-			width: 80%;
+			width: auto;
 		}
 		.menu button
 		{
@@ -1123,7 +1123,7 @@
 		}
 		figcaption
 		{
-			padding: 0;
+			padding-left: 10px;
 		}
 		figcaption h3
 		{
@@ -1131,7 +1131,7 @@
 		}
 		figcaption p 
 		{
-			margin-left: -5.5rem;
+			margin-left: 0rem;
 			font-size: 14px;
 		}
 		figcaption a
